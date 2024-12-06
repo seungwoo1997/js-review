@@ -1,2 +1,2 @@
 # js-review
-for JavaScript Rewind
+for JavaScript Rewind & Review
